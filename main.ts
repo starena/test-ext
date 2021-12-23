@@ -3,7 +3,7 @@ namespace myTest {
      * My bla bla
      */
     //% blockId=mytestplotat
-    //% block=" plot at index"
+    //% block="plot at $index"
     //% index.min=5 index.max=25
     export function plotAt (index: number) : void {
         index |= 0 
